@@ -1,0 +1,20 @@
+body {
+  background-color:  white;
+}
+
+hr {
+  border-style: dotted none none;
+  height:0px;
+  border-width:10px;
+  border-color: #5b83fc;
+  width:5%
+}
+h1,h3{
+  color: #5b83fc;
+  font-family: cambria;
+}
+p,td,li{
+  color: #98b1fa;
+  font-size: 18px;
+  font-family: georgia;
+}
